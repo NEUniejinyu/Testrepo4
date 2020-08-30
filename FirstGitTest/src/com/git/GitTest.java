@@ -10,5 +10,9 @@ public class GitTest {
 
     public void test(){
         System.out.println(8888);
+        int i=0;
+        if(i==0){
+            System.out.println(i);
+        }
     }
 }
